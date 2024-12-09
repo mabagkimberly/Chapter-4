@@ -8,3 +8,6 @@ I can create separate folders for assets, models, and screens, making it easier 
 By splitting widgets into their own files, I can improve the readability and maintainability of the code.
 This modular approach allows for easier updates and debugging, as each widget is contained in its own specific file. 
 Overall, this chapter emphasized the importance of a clean and organized project structure to streamline development and collaboration. 
+
+
+![chapter-4](https://github.com/user-attachments/assets/b7c4d02a-19e1-4b05-b9e0-cea0f77fa7ae)
